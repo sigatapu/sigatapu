@@ -1,58 +1,16 @@
-🚀 Krishna Datta
-
-💻 Full Stack Developer | Java + MERN Stack
-
-🧠 Problem Solver | DSA Enthusiast | Competitive Programmer
-
-🎯 Focused on building scalable systems & cracking top tech companies
 
 
-🔥 About Me
+Hi there, I'm Krishna Datta 👋
+Full-Stack Developer | MCA Graduate
+I am a software engineer with a strong foundation in Data Structures and Algorithms and a passion for building scalable web applications. I enjoy bridging the gap between complex backend logic and fluid, animated frontend experiences.
 
-💡 Strong foundation in Java & Object-Oriented Programming
+💻 Technical Skills
+Languages: Python, Java, JavaScript, C
 
-🌱 Currently learning MERN Stack (MongoDB, Express, React, Node.js)
+Frontend: React.js, Tailwind CSS, Bootstrap, HTML5/CSS3
 
-⚡ Love solving Data Structures & Algorithms problems
+Backend: Node.js, Express.js
 
-🎯 Goal: Crack FAANG-level companies
+Database: MongoDB, MySQL
 
-🧩 Interested in System Design & Backend Engineering
-
-🛠️ Tech Stack
-
-💻 Languages
-
-Java
-
-JavaScript
-
-Python
-
-🌐 Frontend
-
-HTML
-
-CSS
-
-React.js
-
-🔧 Backend
-
-Node.js
-
-Express.js
-
-🗄️ Database
-
-MongoDB
-
-MySQL
-
-⚙️ Tools
-
-Git
-
-GitHub
-
-VS Code
+Tools: Git, GitHub, VS Code, Postman
