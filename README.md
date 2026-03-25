@@ -1,16 +1,31 @@
-## Hi there 👋
+🚀 Krishna Datta
 
+💻 Full Stack Developer | Java + MERN Stack
+🧠 Problem Solver | DSA Enthusiast | Competitive Programmer
+🎯 Focused on building scalable systems & cracking top tech companies
 
-**sigatapu/sigatapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on full stack
-- 🌱 I’m currently learning java
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+🔥 About Me
+💡 Strong foundation in Java & Object-Oriented Programming
+🌱 Currently learning MERN Stack (MongoDB, Express, React, Node.js)
+⚡ Love solving Data Structures & Algorithms problems
+🎯 Goal: Crack FAANG-level companies
+🧩 Interested in System Design & Backend Engineering
+🛠️ Tech Stack
+💻 Languages
+Java
+JavaScript
+Python
+🌐 Frontend
+HTML
+CSS
+React.js
+🔧 Backend
+Node.js
+Express.js
+🗄️ Database
+MongoDB
+MySQL
+⚙️ Tools
+Git
+GitHub
+VS Code
