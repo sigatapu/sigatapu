@@ -43,25 +43,6 @@
 
 ---
 
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sigatapu&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-<h2>📈 Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sigatapu&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true" />
-</p>
-
-<!-- Fallback if stats fail -->
-<!-- <p align="center">
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Sigatapu" />
-</p> -->
-
----
-
 <h2>🎯 Current Focus</h2>
 
 <ul>
