@@ -56,9 +56,9 @@
 </p>
 
 <!-- Fallback if stats fail -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Sigatapu" />
-</p>
+</p> -->
 
 ---
 
