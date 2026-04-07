@@ -43,6 +43,14 @@
 
 ---
 
+<h2>📈 Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sigatapu&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true" />
+</p>
+
+---
+
 <h2>🎯 Current Focus</h2>
 
 <ul>
