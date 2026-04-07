@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;DSA+Enthusiast;Strategic+Thinker" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=7" alt="trophies" /></a>
-</p>
-
 ---
 
 ### ⚡ Professional Persona
@@ -24,7 +20,7 @@
 | **Languages** | <img src="https://skillicons.dev/icons?i=java,js,python,cpp" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,redux" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> |
 | **DevOps/Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" /> |
 
 ---
