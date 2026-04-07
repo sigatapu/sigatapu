@@ -33,12 +33,12 @@
 
 <h3>🗄️ Database</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
 </p>
 
 <h3>🛠 Tools</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sigatapu&show_icons=true&theme=tokyonight&cache_seconds=1800" height="160"/>
 </p>
 
 ---
@@ -54,7 +54,7 @@
 <h2>📈 Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sigatapu&theme=react-dark"/>
 </p>
 
 ---
