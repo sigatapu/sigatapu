@@ -1,8 +1,8 @@
 <h1 align="center">Krishna Datta</h1>
-<h3 align="center">Java Developer | DSA Focused | Systematic Thinker</h3>
+<h3 align="center">Web Developer | DSA Focused | Systematic Thinker</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00F7FF&center=true&vCenter=true&width=500&lines=Java+Developer;Data+Structures+%26+Algorithms;Problem+Solving+Mindset;Building+Strong+Foundations;Focused+on+Consistency" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00F7FF&center=true&vCenter=true&width=500&lines=Web+Developer;Data+Structures+%26+Algorithms;Problem+Solving+Mindset;Building+Strong+Foundations;Focused+on+Consistency" />
 </p>
 
 ---
