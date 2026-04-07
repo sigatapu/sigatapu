@@ -23,7 +23,7 @@
 
 <h3>💻 Languages</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js" />
+  <img src="https://skillicons.dev/icons?i=java,js,python" />
 </p>
 
 <h3>🌐 Web</h3>
@@ -38,7 +38,7 @@
 
 <h3>🛠 Tools</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 
 ---
@@ -47,7 +47,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -74,11 +73,11 @@
 <h2>🌐 Connect</h2>
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/sigatapu-lakshmi-krishna-datta-a69901228/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:dattakrishna282@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
